@@ -500,8 +500,8 @@ Before starting the project, make sure the following tools are installed:
 # Clone Repository
 
 ```bash
-git clone <repository_url>
-cd ft_transcendence
+git clone git@github.com:ver0niqueg/42-ft_transcendence.git
+cd 42-ft_transcendence
 ```
 
 # Docker Setup
