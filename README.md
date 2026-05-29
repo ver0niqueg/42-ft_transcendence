@@ -429,9 +429,11 @@ Implemented through responsive frontend testing and compatibility adjustments.
 
 ## Véronique
 
-* Worked on frontend integration and visual customization.
-* Participated in browser compatibility improvements.
-* Assisted with UI/UX polishing.
+* Front-end integration and UI/UX polishing
+* 3D rendering and customization page implementation (Three.js)
+* Authentication form and profile cards development
+* Spectator mode — visit and explore friends' profiles
+* User experience design contribution
 
 ---
 
