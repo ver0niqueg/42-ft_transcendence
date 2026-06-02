@@ -490,13 +490,13 @@ Security and authentication systems are actively reviewed and tested during deve
 
 # Screenshots
 
-![Capture d'écran](images/Screenshot-register-form.png)
+![Capture d'écran](screenshots/Screenshot-register-form.png)
 
-![Capture d'écran](images/Screenshot-customization-page.png)
+![Capture d'écran](screenshots/Screenshot-customization-page.png)
 
-![Capture d'écran](images/Screenshot-game-page.png)
+![Capture d'écran](screenshots/Screenshot-game-page.png)
 
-![Capture d'écran](images/Screenshot-game-page-components.png)
+![Capture d'écran](screenshots/Screenshot-game-page-components.png)
 
 # Instructions
 
